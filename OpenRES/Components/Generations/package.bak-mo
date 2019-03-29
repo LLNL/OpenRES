@@ -1,0 +1,6 @@
+within OpenRES.Electrical;
+package Generations
+
+
+annotation (Documentation);
+end Generations;

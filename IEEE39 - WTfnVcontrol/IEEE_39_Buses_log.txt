@@ -1,0 +1,4 @@
+FMIL: module = FMI2XML, log level = 2: Initial 'calculated' is not allowed for variability 'constant' and causality 'local'. Setting initial to 'exact'
+FMIL: module = FMI2XML, log level = 2: Start attribute is required for this causality, variability and initial combination
+FMIL: module = FMI2XML, log level = 2: Initial 'calculated' is not allowed for variability 'constant' and causality 'local'. Setting initial to 'exact'
+FMIL: module = FMI2XML, log level = 2: Start attribute is required for this causality, variability and initial combination
